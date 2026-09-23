@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mic Permission Auditor</string>
+    <string name="header_title">Mic Access Kisko Diya Hai?</string>
+    <string name="header_subtitle">Ye saari apps ke paas aapke mic tak pahunch hai</string>
+    <string name="empty_state">Koi bhi app ke paas mic permission nahi hai 🎉</string>
+    <string name="tap_hint">Tap karke permission revoke karein</string>
+</resources>
